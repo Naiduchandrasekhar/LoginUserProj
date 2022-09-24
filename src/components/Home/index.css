@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: pink;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #303150;
+  padding: 20px;
+  width: 30%;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+}
+
+.heading {
+  color: #ffffff;
+}
